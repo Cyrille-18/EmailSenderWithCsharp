@@ -1,0 +1,6 @@
+# Ignore files related to configuration
+appsettings.json
+
+# Ignore bin and obj folders
+/bin
+/obj
